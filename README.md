@@ -4,7 +4,7 @@
 
 ---
 
-## Ekran resimleri
+## 📸 Ekran resimleri
 ---
 ![Image alt](https://github.com/YEKTA34/arabajsonn/blob/9e8a2822ff57bcd2486166b9feafb39a92cb6dc5/build/WhatsApp%20Image%202025-05-17%20at%2001.24.17.jpeg)
 ![Image alt](https://github.com/YEKTA34/arabajsonn/blob/9e8a2822ff57bcd2486166b9feafb39a92cb6dc5/build/WhatsApp%20Image%202025-05-17%20at%2001.24.17.jpeg)
